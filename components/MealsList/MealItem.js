@@ -1,7 +1,7 @@
 import { useNavigation } from '@react-navigation/native'
 
 import { Image, Pressable, StyleSheet, Text, View } from 'react-native'
-import MealSummary from './MealSummary'
+import MealSummary from '../MealSummary'
 
 function MealItem({
   id,
